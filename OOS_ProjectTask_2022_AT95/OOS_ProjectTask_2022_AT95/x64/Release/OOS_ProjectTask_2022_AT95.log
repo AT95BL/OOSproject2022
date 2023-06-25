@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\AT95\OneDrive\Desktop\5_Oos\OOS_ProjectTask_2022_AT95\OOS_ProjectTask_2022_AT95\Utility.h(367,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 627 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OOS_ProjectTask_2022_AT95.vcxproj -> C:\Users\AT95\OneDrive\Desktop\5_Oos\OOS_ProjectTask_2022_AT95\x64\Release\OOS_ProjectTask_2022_AT95.exe
